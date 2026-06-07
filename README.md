@@ -1,3 +1,3 @@
 # python-practice
-learning python
-author - neha bisht
+Learning python.
+Author - Neha Bisht
